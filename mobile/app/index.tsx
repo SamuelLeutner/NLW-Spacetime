@@ -22,7 +22,7 @@ export default function App() {
       clientId: '678d16a8c22cc4c055fd',
       scopes: ['identity'],
       redirectUri: makeRedirectUri({
-        scheme: 'nlw-spacetime',
+        scheme: 'nlwspacetime',
       }),
     },
     discovery,
@@ -45,7 +45,7 @@ export default function App() {
     // console.log(
     //   'response',
     //   makeRedirectUri({
-    //     scheme: 'nlwspacetime',
+    //     scheme: 'nlw-spacetime',
     //   }),
     // )
 
@@ -56,7 +56,7 @@ export default function App() {
   }, [response])
 
   return (
-    <View className=" flex-1 items-center px-8 py-10">
+    <View className="flex-1 items-center px-8 py-10">
       <View className="flex-1 items-center justify-center gap-6">
         <NLWLogo />
 
