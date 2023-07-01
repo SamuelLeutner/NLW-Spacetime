@@ -23,7 +23,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p align="center">Feito por <a href="(https://www.linkedin.com/in/SamuelLeutner/)" target="_blank">Samuel Leutner</a> © </p>
+<p align="center">Feito por <a href="https://www.linkedin.com/in/SamuelLeutner/" target="_blank">Samuel Leutner</a> © </p>
 
 <!--START_SECTION:footer-->
 
